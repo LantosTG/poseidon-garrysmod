@@ -1,4 +1,4 @@
-FROM lantos94/poseidon-debian-base
+FROM lantos94/poseidon-debian-base:steam
 
 # Switch to user steam (make sure)
 USER steam
